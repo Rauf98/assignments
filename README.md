@@ -5,4 +5,4 @@
 
 [assignment_3](https://github.com/Rauf98/assignments/blob/master/assignment3.ipynb)
 
-[assignment_4](
+[assignment_4](https://github.com/Rauf98/assignments/blob/master/assignment4.ipynb)
